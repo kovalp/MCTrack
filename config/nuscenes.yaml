@@ -5,8 +5,8 @@
 DATASET: "nuscenes"
 
 # dataset info
-SPLIT: val  # val, test
-DETECTOR: centerpoint  # centerpoint, largekernel
+SPLIT: test  # val, test
+DETECTOR: largekernel  # centerpoint, largekernel
 DATASET_ROOT: "data/nuscenes/datasets/" 
 DETECTIONS_ROOT: "data/base_version/nuscenes/"
 SAVE_PATH: "results/"

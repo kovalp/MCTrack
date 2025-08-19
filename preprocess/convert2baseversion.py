@@ -6,7 +6,7 @@ import argparse
 
 from convert_kitti import kitti_main
 from convert_nuscenes import nuscenes_main
-from convert_waymo import waymo_main
+# from convert_waymo import waymo_main
 
 kitti_cfg = {
     "raw_data_path": "data/kitti/datasets",

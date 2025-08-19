@@ -7,7 +7,6 @@
   <a href="https://paperswithcode.com/sota/3d-multi-object-tracking-on-nuscenes?p=mctrack-a-unified-3d-multi-object-tracking">
     <img src="https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mctrack-a-unified-3d-multi-object-tracking/3d-multi-object-tracking-on-nuscenes" alt="PWC">
   </a>
-  
 </div>
 
 <p align="center">
