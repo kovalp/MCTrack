@@ -9,4 +9,5 @@ data/base_version/waymo
 data
 new_data/
 val.json
-waymo-od/
+waymo-od/!/.python-version
+.python-version

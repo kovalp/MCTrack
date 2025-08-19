@@ -18,3 +18,4 @@ def eval_nusc(args):
     )
     print("result in " + result_path)
     metrics_summary = nusc_eval.main()
+    print(metrics_summary)
